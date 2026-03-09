@@ -1,10 +1,10 @@
 # Aux_Programacion_II
 ## Nombre:
-Mariño Fernandez Moises Ricardo
+Quispe Yanique Belen
 ===============================
 ## C.I:
-9889032
+14108598
 -------
 ## R.U:
-1895348
+1895385
 -------
